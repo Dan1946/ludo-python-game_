@@ -8,9 +8,15 @@ Welcome to the Ludo Python Game! This is a simple implementation of the classic 
 
 ## How to Play
 
+##Controls
+To Roll the die -- Left Ctrl
+To click on seed -- right mouse button
+To move the seed/capture Opponents -- left mouse button
+
+
 ### Objective
 
-The objective of the game is to move all your tokens from the starting area to the center of the board. The first player to get all their tokens to the center is the winner.
+The objective of the game is to move all your tokens from the starting area to the center of the board. The first player to get all their tokens to the center is the winner, a player can also take his/her opponent(s) back to their starting position,by landing on the opponents seed,and the players seed will go out of the game.
 
 ### Rules
 
